@@ -1,0 +1,13 @@
+h1,h2,h3{
+    text-align: center;
+    color: #353b48;
+}
+
+img{
+    width: 40%;
+}
+.content-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

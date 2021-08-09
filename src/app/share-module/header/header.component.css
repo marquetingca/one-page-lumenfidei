@@ -1,0 +1,16 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+mat-toolbar{
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #fff;
+  color: #353b48;
+}
+.title-page{
+  font-weight: 600;
+  color: #353b48;
+}
+a{
+  text-decoration-style: none;
+  color: #353b48;
+}
